@@ -1,0 +1,29 @@
+_repo: Southern-War-SongsCamp-Fire-Patriotic-and-Sentimental_37538
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Fagan, W. L. (William Long)
+    alias: Fagan, William Long
+    birthdate: 1838
+    deathdate: 1914
+    gutenberg_agent_id: '43464'
+    url: http://www.gutenberg.org/2009/agents/43464
+covers:
+- cover_type: archival
+  image_path: 37538-h/images/cover.jpg
+description: ''
+gutenberg_issued: '2011-09-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37538'
+  lccn: '12012850'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Songs and music -- Confederate
+  States'
+- !lcc 'M'
+title: 'Southern War Songs: Camp-Fire, Patriotic and Sentimental'
+url: http://www.gutenberg.org/ebooks/37538
