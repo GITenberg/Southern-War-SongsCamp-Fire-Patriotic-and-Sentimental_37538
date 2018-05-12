@@ -12,6 +12,8 @@ covers:
 - cover_type: archival
   image_path: 37538-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37538#Southern-War-SongsCamp-Fire-Patriotic-and-Sentimental
 gutenberg_issued: '2011-09-26'
 gutenberg_type: Text
 identifiers:
